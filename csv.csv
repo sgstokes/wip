@@ -1,7 +1,8 @@
 id
 administration
+administration.enrollment
 administration.enrollment.paper
 administration.enrollment.online
 administration.compliance
-administration.compliance.testing.paired plan
+administration.compliance.testing.pairedplan
 administraiton.compliance.testing.annual
