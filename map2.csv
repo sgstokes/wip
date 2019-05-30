@@ -2,7 +2,7 @@ id
 administration
 administration.enrollment
 administration.enrollment.paper
-administration.enrollment.online
+administration.enrollment.online.Node4
 administration.compliance.graph
 administration.compliance.graph.BetweennessCentrality
 administration.compliance.graph.LinkDistance
