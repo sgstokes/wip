@@ -1,9 +1,9 @@
 id
-administration
-administration.enrollment
-administration.enrollment.paper
-administration.enrollment.online
-administration.compliance
-administration.compliance.testing
-administration.compliance.testing.pairedplan
-administration.compliance.testing.annual
+admin
+admin.enrollment
+admin.enrollment.paper
+admin.enrollment.online
+admin.compliance
+admin.compliance.testing
+admin.compliance.testing.pairedplan
+admin.compliance.testing.annual
