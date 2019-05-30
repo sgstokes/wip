@@ -1,11 +1,8 @@
 id
 administration
 administration.enrollment
-administration.enrollment.cluster
-administration.enrollment.cluster.AgglomerativeCluster
-administration.enrollment.cluster.CommunityStructure
-administration.enrollment.cluster.HierarchicalCluster
-administration.compliance
+administration.enrollment.paper
+administration.enrollment.online
 administration.compliance.graph
 administration.compliance.graph.BetweennessCentrality
 administration.compliance.graph.LinkDistance
