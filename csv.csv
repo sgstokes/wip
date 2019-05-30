@@ -1,9 +1,9 @@
 id
 administration
 administration.enrollment
-administration.enrollment.Node3a
-administration.enrollment.Node3a
+administration.enrollment.paper
+administration.enrollment.online
 administration.compliance
-administration.compliance.Node3a
-administration.compliance.Node3a.Node4a
-administration.compliance.Node3a.Node4b
+administration.compliance.testing
+administration.compliance.testing.pairedplan
+administration.compliance.testing.annual
